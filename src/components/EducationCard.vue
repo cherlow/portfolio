@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Card title="Education">
+    <Card title="Educations">
       <template v-for="(ed, idx) in educations">
         <EducationItem
           :key="idx"
