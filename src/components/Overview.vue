@@ -2,7 +2,7 @@
   <div>
     <Card title="Overview">
       <p class="lead">
-        Hello, I'm <strong>{{ personal.full_name }}</strong>, a Software Engineer based in Tokyo, Japan. Find me on
+        Hello, I'm <strong>Musembi Paul Kyalo</strong>, a Software Engineer based in Nairobi, Kenya. Find me on
         <template v-for="(social, idx) in socials">
           <a
             :key="idx"
